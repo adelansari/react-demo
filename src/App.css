@@ -7,6 +7,7 @@
 
 body {
   background-color: #333;
+  color: white;
 }
 
 .adel-header {
@@ -52,4 +53,23 @@ body {
 
 .read-the-docs {
   color: #888;
+}
+
+button {
+  margin: 0 10px;
+}
+
+.inc-counter:hover {
+  border-color: lime;
+  background-color: aquamarine;
+}
+
+.dec-counter:hover {
+  border-color: red;
+  background-color: plum;
+}
+
+.reset-counter {
+  background-color: red;
+  color: white;
 }
