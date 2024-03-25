@@ -1,5 +1,7 @@
 .Box {
-  background-color: bisque;
+  background-color: #565656;
   border-radius: 2rem;
-  border-color: aqua;
+  border: 2px solid aqua;
+  color: white;
+  margin-bottom: 30px;
 }
