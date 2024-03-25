@@ -3,5 +3,15 @@
   border-radius: 2rem;
   border: 2px solid aqua;
   color: white;
-  margin-bottom: 30px;
+  margin: 30px;
+  box-shadow: 10px 10px cyan;
+}
+
+.Box:hover {
+  box-shadow: 10px 10px 10px aquamarine;
+  cursor: pointer;
+}
+
+.Box p {
+  color: aquamarine;
 }
