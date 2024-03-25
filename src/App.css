@@ -5,6 +5,19 @@
   text-align: center;
 }
 
+body {
+  background-color: #333;
+}
+
+.adel-header {
+  color: aquamarine;
+  transition: filter 300ms;
+}
+
+.adel-header:hover {
+  filter: drop-shadow(0 0 0.5em #ffffff);
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
